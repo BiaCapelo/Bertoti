@@ -24,6 +24,7 @@ No Google, às vezes dizemos: “A engenharia de software é a programação int
 
 
 Comentário
+
 Apesar de conectados um ao outro, programação e engenharia de software, ambos não são a mesma coisa. Um integra parte do outro, não temos engenharia de software sem a programação, porém suas definições são distintas e com fatores que separam um do outro. Podemos dizer que a engenharia de software é mais complexo na questão relacionada a manutenção de tempo, de escala e de compensação.
 
 
